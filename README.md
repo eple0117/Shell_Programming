@@ -1,5 +1,4 @@
-# Shell_Programming
-시스템프로그래밍 쉘 프로그래밍
+# Shell Program(TnT Shell)
 
 ## 개요
 - Bash, csh와 비슷한 기능을 하는 쉘 프로그램 구현
@@ -12,6 +11,7 @@
 가 동작하도록 프로그램을 수정하시오.
 4. 파일 재지향 (>, <) 기능이 가능하도록 프로그램을 수정하시오.
 5. ls, pwd, cd, mkdir, rmdir, ln, cp, rm, mv, cat 명령을 구현하시오.
+6. 파이프(|) 기능을 추가하도록 수정하시오.
 
 ## Running screen
 ### Main
@@ -38,6 +38,9 @@
 
 
 ### 작업자 
-- Sangwoo LEE(sangwoo239@naver.com)
+- Inhwan JEONG(ghjklla007@naver.com)
   - [Go to Author's Github Page](https://github.com/InhwanJeong)
+
+- Taeyong LEE(pastelhawk@gmail.com)
+  - [Go to Author's Github Page](https://github.com/yongjjang)
 
