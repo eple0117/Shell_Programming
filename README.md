@@ -17,7 +17,7 @@
 ![main2](./image/main2.png)
 
 ### Exit
-![exit](./image/exit.png)
+![exit](./image/exit_fix.png)
 
 ### Redirect
 ![redirect](./image/redirect.png)
