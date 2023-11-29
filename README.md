@@ -21,7 +21,6 @@
 
 ### Redirect
 ![redirect](./image/redirect.png)
-![redirect2](./image/redirect2.png)
 
 ### Exception
 ![exception](./image/exception.png)
